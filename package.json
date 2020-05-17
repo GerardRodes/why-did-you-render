@@ -1,0 +1,16 @@
+{
+  "name": "vwhy-did-you-render",
+  "version": "1.0.0",
+  "description": "Track why your vue components are updating",
+  "main": "WhyDidYouRender.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerardRodes/Why-did-you-update.git"
+  },
+  "author": "Gerard Rodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GerardRodes/Why-did-you-update/issues"
+  },
+  "homepage": "https://github.com/GerardRodes/Why-did-you-update#readme"
+}
