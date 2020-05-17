@@ -1,5 +1,5 @@
 {
-  "name": "vwhy-did-you-render",
+  "name": "why-did-you-render",
   "version": "1.0.1",
   "description": "Track why your vue components are updating",
   "main": "WhyDidYouRender.js",
