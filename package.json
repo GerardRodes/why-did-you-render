@@ -1,6 +1,6 @@
 {
   "name": "vwhy-did-you-render",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Track why your vue components are updating",
   "main": "WhyDidYouRender.js",
   "repository": {
