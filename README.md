@@ -1,4 +1,4 @@
-# Why-did-you-render
+# why-did-you-render
 Track why your vue components are updating
 
 Sometimes a component is updating causing a rerender and you know that it shouldn't do it.
